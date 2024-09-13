@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @aadim112
-- 👀 I’m interested in Technology And Crafting things From code
-- 🌱 I’m currently learning Things That Matter 
-- 📫 How to reach me -> Instagram | LinkedIn | X
-- ⚡ Fun fact: Not Available Now, Meet Personaly : )
+# Hi there! I'm Aaditya Patil
 
-<!---
-aadim112/aadim112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**See My Contributions And Ideas Here On The GitHub Home🏠**
+
+---
+
+## 👋 ABOUT ME
+
+I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Research.**👨‍🎓  
+- 🚧 You will always find me working on projects
+- 🐍 Currently Learning Python at an Advanced Level
+- 🧠 Have Good Knowledge of **Flask | HTML | CSS | Python | JS**
+- 👨‍💻 Know more about me at [Portfolio Website](https://aadityap.pythonanywhere.com/)
+- 🎮 Love To Travel and Play Games
+
+---
+
+## 🔗 Connect
+    <a href="https://instagram.com/yourusername">
+        <img src="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/instagram.svg](https://i.pinimg.com/564x/30/12/94/30129480e943e5b3e334394168ae16a2.jpg](https://i.pinimg.com/564x/30/12/94/30129480e943e5b3e334394168ae16a2.jpg)" height="32" width="32" alt="Instagram"/>
+    </a>
+    <a href="https://twitter.com/yourusername">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/twitter.svg" height="32" width="32" alt="Twitter"/>
+    </a>
+    <a href="https://linkedin.com/in/yourusername">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg" height="32" width="32" alt="LinkedIn"/>
+    </a>
+    <a href="https://aadityap.pythonanywhere.com/">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/user.svg" height="32" width="32" alt="Personal Site"/>
+    </a>
