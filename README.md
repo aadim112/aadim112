@@ -6,7 +6,7 @@
 
 ## 👋 ABOUT ME
 
-I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Research.**👨‍🎓  
+I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Research**👨‍🎓  
 - 🚧 You will always find me working on projects
 - 🐍 Currently Learning Python at an Advanced Level
 - 🧠 Have Good Knowledge of **Flask | HTML | CSS | Python | JS**
@@ -17,7 +17,7 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 
 ## 🔗 Connect
     <a href="https://instagram.com/yourusername">
-        <img src="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/instagram.svg](https://i.pinimg.com/564x/30/12/94/30129480e943e5b3e334394168ae16a2.jpg](https://i.pinimg.com/564x/30/12/94/30129480e943e5b3e334394168ae16a2.jpg)" height="32" width="32" alt="Instagram"/>
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/instagram.svg(https://i.pinimg.com/564x/30/12/94/30129480e943e5b3e334394168ae16a2.jpg(https://i.pinimg.com/564x/30/12/94/30129480e943e5b3e334394168ae16a2.jpg)" height="32" width="32" alt="Instagram"/>
     </a>
     <a href="https://twitter.com/yourusername">
         <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/twitter.svg" height="32" width="32" alt="Twitter"/>
