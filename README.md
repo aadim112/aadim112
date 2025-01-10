@@ -16,15 +16,14 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 ---
 
 ## 🔗 Connect
-<label style="height:50">Leet Code</label>
 <a href="https://leetcode.com/u/aadi_m/">
-<img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="Image Description" width="50" height="50" style="margin-left:20px">
+<img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="Image Description" width="50" height="50" style="margin-left:50px">
 </a>
 <a href="https://codolio.com/profile/Aaditya">
-<img src="https://codolio.com/codolio_assets/codolio.svg" alt="Image Description" width="50" height="50" style="margin-left:20px" >
+<img src="https://codolio.com/codolio_assets/codolio.svg" alt="Image Description" width="50" height="50" style="margin-left:50px" >
 </a>
-<a href="www.linkedin.com/in/adityapatilm">
-<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Image Description" width="50" height="50" style="margin-left:20px" >
+<a href="www.linkedin.com/in/adityapatilm" style="text-decoration:none">
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Image Description" width="50" height="50" style="margin-left:50px" >
 </a>
 
 ## 📚 Projects Completed
