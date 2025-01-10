@@ -16,7 +16,7 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 ---
 
 ## 🔗 Connect
-![Alt text](imageURL)
+![Codolio](https://codolio.com/codolio_assets/codolio.svg)
 
 ## 📚 Projects Completed
 -  **Home Assistance [An Arduino Based Project]**
