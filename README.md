@@ -1,6 +1,6 @@
-# Hi there! I'm Aaditya Patil
+# Welcome! I'm Aaditya Patil
 
-**See My Contributions And Ideas Here On The GitHub Home🏠**
+**See My Contributions And Ideas Here On The GitHub Home 🏠**
 
 ---
 
@@ -16,7 +16,7 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 ---
 
 ## 🔗 Connect
-
+![Alt text](imageURL)
 
 ## 📚 Projects Completed
 -  **Home Assistance [An Arduino Based Project]**
