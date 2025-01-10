@@ -19,14 +19,8 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 
 ---
 ## 📚 Projects Completed
--  Home Assistance [An Arduino Based Project]
--  Accomodation Website for Scholars
-- Email Assistante [An app that fetches emails, summarise them, creates schedule as per the meetings mentioned in the emails]
-- Canteen website [Website serves as food ordering website to reduse the time for serving the food and placing the order at the spot]
-- 🎮 Love To Travel and Play Games
-- Home Assistance [An Arduino Based Project]
--Accomodation Website for Scholars
--Email Assistante [An app that fetches emails, summarise them, creates schedule as per the meetings mentioned in the emails]
--Canteen website [Website serves as food ordering website to reduse the time for serving the food and placing the order at the spot]
-
+-  **Home Assistance [An Arduino Based Project]**
+-  **Accomodation Website for Scholars**
+- **Email Assistante [An app that fetches emails, summarise them, creates schedule as per the meetings mentioned in the emails]**
+- **Canteen website [Website serves as food ordering website to reduse the time for serving the food and placing the order at the spot]**
 ---
