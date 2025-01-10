@@ -18,7 +18,6 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 ## 🔗 Connect
 <a href="https://leetcode.com/u/aadi_m/" style="margin:50px">
 <img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="Image Description" width="50" height="50" style="margin:50px">
-  Leetcode
 </a>
 <a href="https://codolio.com/profile/Aaditya" style="margin:50px">
 <img src="https://codolio.com/codolio_assets/codolio.svg" alt="Image Description" width="50" height="50" style="margin:50px" >
