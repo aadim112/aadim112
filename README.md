@@ -16,7 +16,7 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 ---
 
 ## 🔗 Connect
-<img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="Image Description" width="100" height="100">  <img src="https://codolio.com/codolio_assets/codolio.svg" alt="Image Description" width="100" height="100"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Image Description" width="100" height="100">
+<img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="Image Description" width="50" height="50" style="margin-left:20px">  <img src="https://codolio.com/codolio_assets/codolio.svg" alt="Image Description" width="50" height="50" style="margin-left:20px" > <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Image Description" width="50" height="5" >
 
 ## 📚 Projects Completed
 -  **Home Assistance [An Arduino Based Project]**
