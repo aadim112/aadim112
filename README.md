@@ -103,5 +103,5 @@ Intelligent parking space detection and booking system that helps users find fre
 </div>
 
 <div align="center">
-  <img src="working.png" width="100%"/>
+  <img src="working.png" width="400px"/>
 </div>
