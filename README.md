@@ -2,7 +2,7 @@
   <img src="transparent.png" width="350px"/>
 </div>
 
-<div align="center">👋 Hey there! I'm Aaditya </div>
+<div align="center">##👋 Hey there! I'm Aaditya </div>
 
 <div align="center">
   
