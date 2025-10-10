@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="image.png" width="350px"/>
+</div>
 
 <div align="center"><h1>👋 Hey there! I'm Aaditya </h1></div>
 
