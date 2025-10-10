@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="joke.png" width="400px"/>
+  <img src="transparent.png" width="350px"/>
 </div>
 
 <div align="center">👋 Hey there! I'm Aaditya </div>
