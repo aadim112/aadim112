@@ -1,8 +1,8 @@
-<div align="center">👋 Hey there! I'm Aaditya </div>
-
 <div align="center">
-  <img src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg" width="100%"/>
+  <img src="joke.png" width="100%"/>
 </div>
+
+<div align="center">👋 Hey there! I'm Aaditya </div>
 
 <div align="center">
   
