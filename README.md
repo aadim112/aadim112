@@ -55,7 +55,7 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 
 <div align="center"><h2>LeetCode Journey </h2></div>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/aadi_m?theme=dark&font=Karma&ext=activity&show_recent=false" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/aadi_m?theme=dark" width="100%" />
 </div>
 
 
