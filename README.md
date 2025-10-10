@@ -1,7 +1,7 @@
 <div align="center">👋 Hey there! I'm Aaditya </div>
 
 <div align="center">
-  <img src="https://www.shutterstock.com/shutterstock/photos/1176860761/display_1500/stock-vector-horizontal-banner-with-hands-typing-on-laptop-keyboard-various-electronic-devices-and-symbols-1176860761.jpg" width="100%"/>
+  <img src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg" width="100%"/>
 </div>
 
 <div align="center">
