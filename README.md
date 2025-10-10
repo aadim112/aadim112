@@ -104,45 +104,20 @@ Intelligent parking space detection and booking system that helps users find fre
 
 </div>
 
-## 📊 GitHub Analytics
+## 🏅 LeetCode Badges
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aadim112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadim112&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=aadi_m&theme=dark" alt="LeetCode Badges"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadim112&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadim112&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadim112&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
-## 🎓 What I'm Currently Learning
-
-- 🧠 Advanced Machine Learning & Deep Learning
-- 🚀 Cloud Architecture & DevOps
-- 🔐 Cybersecurity Best Practices
-- 📱 Mobile App Development
-
-## 🤝 Let's Connect!
-
-I'm always open to collaborating on innovative projects, discussing new technologies, or just having a chat about code! Feel free to reach out.
-
 <div align="center">
   
-  ### 💭 "The only way to do great work is to love what you do." - Steve Jobs
-  
-  ![Visitor Count](https://profile-counter.glitch.me/aadim112/count.svg)
+  ### "The only way to do great work is to love what you do." - Steve Jobs
+
   
 </div>
 
