@@ -48,11 +48,8 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 <summary><b>AI/ML & Other Technologies</b></summary>
 <br>
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
 ![Reinforcement Learning](https://img.shields.io/badge/RL-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 </details>
 
@@ -60,21 +57,13 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 
 <div align="center">
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Karma&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/aadi_m?theme=dark&font=Karma&ext=activity)
 
 **🔥 Problems Solved: XXX** | **⭐ Consistent Problem Solver**
 
 </div>
 
 ## 💼 Featured Projects
-
-### 🤖 [CMate - AI Dictation & Assignment Tool](https://github.com/aadim112/CMate)
-**Tech Stack:** React.js • Firebase • Flask • Google Gemini API • Cloudinary  
-AI-powered educational platform featuring an AI Dictator that reads assignment answers in human-like voice and an Assignment Generator producing notes and diagrams with customizable lengths. Includes interactive contest section for real-time academic challenges.
-
-🔗 **[View Project](https://github.com/aadim112/CMate)**
-
----
 
 ### 🚁 [Drone Surveillance System with RL](https://github.com/RohanSali/Drone-Surveillance-System)
 **Tech Stack:** PyBullet • Gymnasium • Reinforcement Learning • Supervised Learning  
@@ -98,29 +87,6 @@ Intelligent parking space detection and booking system that helps users find fre
 
 🔗 **[View Project](https://github.com/aadim112/RentPar)**
 
----
-
-### 🍽️ [Canteen Website - Online Food Serving](https://github.com/aadim112/Canteen-Website)
-**Tech Stack:** HTML • CSS • Flask • SQLite • API Integration  
-College canteen web application reducing waiting times and food wastage through online ordering. Features table booking functionality and streamlined transaction management.
-
-🔗 **[View Project](https://github.com/aadim112/Canteen-Website)**
-
----
-
-### 🏠 [Home Assistant using Arduino](https://github.com/aadim112/Home-Assistant)
-**Tech Stack:** Arduino (C++) • Python • Speech Recognition • Bluetooth  
-IoT-based home automation system using Google Speech Recognition for voice commands. Includes custom mobile app built with logic blocks for managing connected appliances.
-
-🔗 **[View Project](https://github.com/aadim112/Home-Assistant)**
-
----
-
-### 🌐 [Personal Portfolio Website](https://github.com/aadim112/aaditya)
-**Tech Stack:** HTML • CSS • JavaScript • Flask  
-Dynamic portfolio website with fully editable content through backend management. Showcases projects, skills, and professional journey with responsive design.
-
-🔗 **[Live Site](https://github.com/aadim112/aaditya)** | **[View Code](https://github.com/aadim112/aaditya)**
 
 ## 📜 Certifications
 
