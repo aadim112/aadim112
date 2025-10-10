@@ -55,7 +55,9 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 
 <div align="center"><h2>LeetCode Journey </h2></div>
 <div align="center">
+  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aadi_m?theme=dark&font=Karma&ext=activity)
+
 </div>
 
 <div align="center"><h2>Featured Projects </h2></div>
@@ -82,22 +84,6 @@ Intelligent parking space detection and booking system that helps users find fre
 
 🔗 **[View Project](https://github.com/aadim112/RentPar)**
 
-
-<div align="center"><h2>Certifications </h2></div>
-
-<div align="center">
-
-| Certification | Platform | Credential |
-|:-------------:|:--------:|:----------:|
-| 🎯 **Core Concept of C++** | Devtown | Verified |
-| 🌐 **HTML** | Sololearn | CT-OMQ0GWXF |
-| 🐍 **Python Basics** | Sololearn | CC-OIOS0SWD |
-| ⚡ **Core Concept of JavaScript** | Sololearn | CT-MLNXDENA |
-| 💻 **Python Skill Test** | HackerRank | 62C60659914C |
-| 📊 **Data Analytics** | Forage (Deloitte) | Verified |
-| 🤖 **Data Pre-Processing for ML** | Udemy | UC-83937212-5853 |
-
-</div>
 
 <div align="center"><h2>LeetCode Badges </h2></div>
 
