@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Aaditya
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Transforming%20Ideas%20into%20Digital%20Reality%20✨&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGi_DXIf291Eg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737483649209?e=1762992000&v=beta&t=ZOZ-OEBqvlZyRMjU6NfEF7fzko-zMC9HnFP3Appr_PU" width="100%"/>
 </div>
 
 <div align="center">
