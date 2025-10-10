@@ -97,11 +97,10 @@ Intelligent parking space detection and booking system that helps users find fre
 
 <div align="center">
   
-  ### "The only way to do great work is to love what you do." - Steve Jobs
-
-  
 </div>
 
 <div align="center">
   <img src="working.png" width="400px"/>
 </div>
+
+*Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.* – Mark Zuckerberg
