@@ -56,6 +56,12 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 <div align="center"><h2>LeetCode Journey </h2></div>
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/aadi_m?theme=dark" width="100%" />
+  
+  <div align="center">
+    <img src="https://badgen.net/badge/LeetCode/Problems-Solved/blue?icon=leetcode" alt="Problems Solved"/>
+    <img src="https://badgen.net/badge/LeetCode/Rating-1775/green?icon=leetcode" alt="Rating"/>
+    <img src="https://badgen.net/badge/LeetCode/Contests-Participated/ff69b4?icon=leetcode" alt="Contests"/>
+  </div>
 </div>
 
 
@@ -83,12 +89,6 @@ Intelligent parking space detection and booking system that helps users find fre
 
 🔗 **[View Project](https://github.com/aadim112/RentPar)**
 
-
-<div align="center"><h2>LeetCode Badges </h2></div>
-
-<div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=aadi_m&theme=dark" width="100%" alt="LeetCode Badges"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadim112&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
