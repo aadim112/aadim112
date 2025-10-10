@@ -15,16 +15,10 @@
 
 ## 💫 About Me
 
-```javascript
-const aaditya = {
-    role: "Full Stack Developer & AI Enthusiast",
-    location: "🇮🇳 India",
-    currentlyWorking: "Building intelligent web solutions",
-    specialization: ["Web Development", "AI/ML", "IoT Systems"],
-    codingPhilosophy: "Clean code, scalable solutions, continuous learning",
-    funFact: "I turn caffeine into code and ideas into reality ☕→💻"
-};
-```
+I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Research**👨‍🎓 
+- 🚧 You will always find me working on projects - 🐍 Currently Learning Python at an Advanced Level 
+- 🧠 Have Good Knowledge of **Flask | HTML | CSS | Python | JS | React** 
+- 🎮 Love To Travel and Play Games
 
 ## 🚀 Tech Arsenal
 
