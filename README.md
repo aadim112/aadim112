@@ -103,5 +103,5 @@ Intelligent parking space detection and booking system that helps users find fre
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+  <img src="working.png" width="100%"/>
 </div>
