@@ -2,7 +2,7 @@
   <img src="image.png" width="350px"/>
 </div>
 
-<div align="center"><h1>👋 Hey there! I'm Aaditya </h1></div>
+<div align="center"><h1>👋  I'm Aadi </h1></div>
 
 <div align="center">
   
@@ -13,14 +13,14 @@
   
 </div>
 
-## 💫 About Me
+<div align="center"><h2>About Me </h2></div>
 
 I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Research**👨‍🎓 
 - 🚧 You will always find me working on projects - 🐍 Currently Learning Python at an Advanced Level 
 - 🧠 Have Good Knowledge of **Flask | HTML | CSS | Python | JS | React** 
 - 🎮 Love To Travel and Play Games
 
-## 🚀 Tech Arsenal
+<div align="center"><h2>Tech Stack </h2></div>
 
 <details open>
 <summary><b>Frontend Development</b></summary>
@@ -53,17 +53,13 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 
 </details>
 
-## 🎯 LeetCode Journey
-
+<div align="center"><h2>LeetCode Journey </h2></div>
 <div align="center">
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aadi_m?theme=dark&font=Karma&ext=activity)
-
-**🔥 Problems Solved: XXX** | **⭐ Consistent Problem Solver**
-
 </div>
 
-## 💼 Featured Projects
+<div align="center"><h2>Featured Projects </h2></div>
 
 ### 🚁 [Drone Surveillance System with RL](https://github.com/RohanSali/Drone-Surveillance-System)
 **Tech Stack:** PyBullet • Gymnasium • Reinforcement Learning • Supervised Learning  
@@ -88,7 +84,7 @@ Intelligent parking space detection and booking system that helps users find fre
 🔗 **[View Project](https://github.com/aadim112/RentPar)**
 
 
-## 📜 Certifications
+<div align="center"><h2>Certifications </h2></div>
 
 <div align="center">
 
@@ -104,7 +100,7 @@ Intelligent parking space detection and booking system that helps users find fre
 
 </div>
 
-## 🏅 LeetCode Badges
+<div align="center"><h2>LeetCode Badges </h2></div>
 
 <div align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=aadi_m&theme=dark" alt="LeetCode Badges"/>
