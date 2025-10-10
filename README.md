@@ -99,7 +99,7 @@ Intelligent parking space detection and booking system that helps users find fre
 </div>
 
 <div align="center">
-  <img src="working.png" width="400px"/>
+  <img src="working.gif" width="400px"/>
 </div>
 <br>
 
