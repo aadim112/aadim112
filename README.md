@@ -87,7 +87,7 @@ Intelligent parking space detection and booking system that helps users find fre
 <div align="center"><h2>LeetCode Badges </h2></div>
 
 <div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=aadi_m&theme=dark" alt="LeetCode Badges"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=aadi_m&theme=dark" width="100%" alt="LeetCode Badges"/>
 </div>
 
 <div align="center">
@@ -101,5 +101,6 @@ Intelligent parking space detection and booking system that helps users find fre
 <div align="center">
   <img src="working.png" width="400px"/>
 </div>
+<br>
 
-*Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.* – Mark Zuckerberg
+*Move fast and break things. Unless you are breaking stuff, you are not moving fast enough. – Mark Zuckerberg* 
