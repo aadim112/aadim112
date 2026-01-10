@@ -103,4 +103,6 @@ Intelligent parking space detection and booking system that helps users find fre
 </div>
 <br>
 
+<div align="center">
 *Move fast and break things. Unless you are breaking stuff, you are not moving fast enough. – Mark Zuckerberg* 
+</div>
