@@ -8,17 +8,23 @@
   
   [![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/aadim112/aaditya)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aadi_m)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adityapatilm)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadim112)
-  
+</div>
+
+<div align="center">
+  <img src="https://badgen.net/badge/LeetCode/Problems-Solved/blue?icon=leetcode" alt="Problems Solved"/>
+  <img src="https://badgen.net/badge/LeetCode/Rating-1775/green?icon=leetcode" alt="Rating"/>
+  <img src="https://badgen.net/badge/LeetCode/Contests-Participated/ff69b4?icon=leetcode" alt="Contests"/>
+  </div>
 </div>
 
 <div align="center"><h2>About Me </h2></div>
 
 I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Research**👨‍🎓 
-- 🚧 You will always find me working on projects - 🐍 Currently Learning Python at an Advanced Level 
-- 🧠 Have Good Knowledge of **Flask | HTML | CSS | Python | JS | React** 
-- 🎮 Love To Travel and Play Games
+- 🚧 You will always find me working on projects - Currently Learning Python at an Advanced Level 
+- Have Good Knowledge of **Flask | HTML | CSS | Python | JS | React** 
+- Love To Travel and Play Games
 
 <div align="center"><h2>Tech Stack </h2></div>
 
@@ -41,7 +47,6 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
 </details>
 
 <details>
@@ -53,33 +58,22 @@ I am a student at **Dr. D. Y. Patil Institute of Engineering, Management And Res
 
 </details>
 
-<div align="center"><h2>LeetCode Journey </h2></div>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/aadi_m?theme=dark" width="100%" />
-  
-  <div align="center">
-    <img src="https://badgen.net/badge/LeetCode/Problems-Solved/blue?icon=leetcode" alt="Problems Solved"/>
-    <img src="https://badgen.net/badge/LeetCode/Rating-1775/green?icon=leetcode" alt="Rating"/>
-    <img src="https://badgen.net/badge/LeetCode/Contests-Participated/ff69b4?icon=leetcode" alt="Contests"/>
-  </div>
-</div>
-
 
 <div align="center"><h2>Featured Projects </h2></div>
 
-### 🚁 [Drone Surveillance System with RL](https://github.com/RohanSali/Drone-Surveillance-System)
+### [Drone Surveillance System with RL](https://github.com/RohanSali/Drone-Surveillance-System)
 **Tech Stack:** PyBullet • Gymnasium • Reinforcement Learning • Supervised Learning  
 Autonomous drone surveillance leveraging AI and Reinforcement Learning for intelligent navigation, target identification, and real-time decision-making. Reduces human error in surveillance operations with adaptive anomaly detection and crowd monitoring.
 
-🔗 **[View Project](https://github.com/RohanSali/Drone-Surveillance-System)**
+**[View Project](https://github.com/RohanSali/Drone-Surveillance-System)**
 
 ---
 
-### 🏥 [MEDILOG - Hospital Management System](https://github.com/aadim112/HM0055_Code200)
+### [MEDILOG - Hospital Management System](https://github.com/aadim112/HM0055_Code200)
 **Tech Stack:** React.js • Firebase • Google Gemini • Google Authentication  
 Web-based platform streamlining doctor-patient interactions with efficient appointment booking, patient records management, and real-time inventory updates. Features secure data storage and fully responsive design.
 
-🔗 **[View Project](https://github.com/aadim112/HM0055_Code200)**
+**[View Project](https://github.com/aadim112/HM0055_Code200)**
 
 ---
 
@@ -87,16 +81,7 @@ Web-based platform streamlining doctor-patient interactions with efficient appoi
 **Tech Stack:** React.js • Firebase • Mapbox • HereWeGo API • Google Auth  
 Intelligent parking space detection and booking system that helps users find free and paid parking near destinations. Uses real-time location tracking and coordinate-based search for optimal parking recommendations.
 
-🔗 **[View Project](https://github.com/aadim112/RentPar)**
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadim112&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  
-</div>
+**[View Project](https://github.com/aadim112/RentPar)**
 
 <div align="center">
   <img src="working.gif" width="400px"/>
