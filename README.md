@@ -2,7 +2,11 @@
   <img src="image2.png" width="400px"/>
 </div>
 
-<div align="center"><h1>👋  I'm Aadi </h1></div>
+<div align="center">
+  <img src="hero" width="400px"/>
+</div>
+
+
 
 <div align="center">
   
