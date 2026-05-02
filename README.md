@@ -23,8 +23,6 @@
   </div>
 </div>
 
-![Reinforcement Learning](https://img.shields.io/badge/RL-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 <div align="center"><h2>Featured Projects </h2></div>
 
 ### [Drone Surveillance System with RL](https://github.com/RohanSali/Drone-Surveillance-System)
