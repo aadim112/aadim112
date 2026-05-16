@@ -1,12 +1,12 @@
 <div align="center">
   <img src="img.png" width="550px"/>
 </div>
-
+<div align="center">
+  <img src="ganbatteru.png" width="100%"/>
+</div>
 <div align="center">
   <img src="hero.png" width="100%"/>
 </div>
-
-
 
 <div align="center">
   
