@@ -5,12 +5,6 @@
   <img src="ganbatteru.png" width="100%"/>
 </div>
 
-<div align="center"><h2> Building Is My Loving Language </h2></div>
-
-<div align="center">
-  <img src="hero.png" width="100%"/>
-</div>
-
 <div align="center"><h2>What I Believe "What I Am" :)</h2></div>
 <p>I am a Software Engineering student specializing in Artificial Intelligence and Data Science at Dr. D. Y. Patil Institute of Engineering, Management, and Research. My passion lies in exploring new technologies, and I thrive on the excitement of learning and applying them.
 
@@ -19,9 +13,13 @@ Currently, I am deepening my expertise in Machine Learning, with a focus on mast
 I have worked on various projects that have enhanced my machine learning skills, where I focused on applying core concepts, experimenting with different approaches, and developing solutions to real-world problems.While web development has been an enjoyable medium for implementing my ideas, I am actively expanding my horizons by exploring diverse Python applications beyond web development. In addition to my technical pursuits, I am currently learning the Japanese language(JLPT N5).
 
 I am enthusiastic about combining my learning with practical experiences, staying committed to growing as a developer and contributing to impactful projects.
+<div align="center">
 
+<div align="center"><h2> Building Is My Loving Language </h2></div>
 
 <div align="center">
+  <img src="hero.png" width="100%"/>
+</div>
   
   [![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/aadim112/aaditya)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aadi_m)
