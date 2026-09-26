@@ -15,8 +15,6 @@ I have worked on various projects that have enhanced my machine learning skills,
 I am enthusiastic about combining my learning with practical experiences, staying committed to growing as a developer and contributing to impactful projects.
 <div align="center">
 
-<div align="center"><h2> Building Is My Loving Language </h2></div>
-
 <div align="center">
   <img src="hero.png" width="100%"/>
 </div>
@@ -26,6 +24,8 @@ I am enthusiastic about combining my learning with practical experiences, stayin
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adityapatilm)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadim112)
 </div>
+
+<div align="center"><h2> Building Is My Loving Language </h2></div>
 
 <div align="center">
   <img src="https://badgen.net/badge/LeetCode/Problems-Solved/blue?icon=leetcode" alt="Problems Solved"/>
