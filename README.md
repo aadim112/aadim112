@@ -25,29 +25,16 @@
   </div>
 </div>
 
-<div align="center"><h2>Featured Projects </h2></div>
+<div align="center"><h2>What I Believe "What I Am" :)</h2></div>
+<p>I am a Software Engineering student specializing in Artificial Intelligence and Data Science at Dr. D. Y. Patil Institute of Engineering, Management, and Research. My passion lies in exploring new technologies, and I thrive on the excitement of learning and applying them.
 
-### [Drone Surveillance System with RL](https://github.com/RohanSali/Drone-Surveillance-System)
-**Tech Stack:** PyBullet • Gymnasium • Reinforcement Learning • Supervised Learning  
-Autonomous drone surveillance leveraging AI and Reinforcement Learning for intelligent navigation, target identification, and real-time decision-making. Reduces human error in surveillance operations with adaptive anomaly detection and crowd monitoring.
+Currently, I am deepening my expertise in Machine Learning, with a focus on mastering core concepts and implementing them. My goal is to achieve a solid foundation in Python while gaining hands-on experience through real-world applications.
 
-**[View Project](https://github.com/RohanSali/Drone-Surveillance-System)**
+I have worked on various projects that have enhanced my machine learning skills, where I focused on applying core concepts, experimenting with different approaches, and developing solutions to real-world problems.While web development has been an enjoyable medium for implementing my ideas, I am actively expanding my horizons by exploring diverse Python applications beyond web development. In addition to my technical pursuits, I am currently learning the Japanese language(JLPT N5).
 
----
+I am enthusiastic about combining my learning with practical experiences, staying committed to growing as a developer and contributing to impactful projects.
 
-### [MEDILOG - Hospital Management System](https://github.com/aadim112/HM0055_Code200)
-**Tech Stack:** React.js • Firebase • Google Gemini • Google Authentication  
-Web-based platform streamlining doctor-patient interactions with efficient appointment booking, patient records management, and real-time inventory updates. Features secure data storage and fully responsive design.
-
-**[View Project](https://github.com/aadim112/HM0055_Code200)**
-
----
-
-### 🅿️ [RentPar - Smart Parking Solution](https://github.com/aadim112/RentPar)
-**Tech Stack:** React.js • Firebase • Mapbox • HereWeGo API • Google Auth  
-Intelligent parking space detection and booking system that helps users find free and paid parking near destinations. Uses real-time location tracking and coordinate-based search for optimal parking recommendations.
-
-**[View Project](https://github.com/aadim112/RentPar)**
+</p>
 
 <div align="center">
   <img src="working.gif" width="400px"/>
