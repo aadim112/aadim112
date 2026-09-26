@@ -4,11 +4,12 @@
 <div align="center">
   <img src="ganbatteru.png" width="100%"/>
 </div>
+
+<div align="center"><h2> Building Is My Loving Language </h2></div>
+
 <div align="center">
   <img src="hero.png" width="100%"/>
 </div>
-
-<div align="center"><h2> Building Is My Loving Language </h2></div>
 
 <div align="center"><h2>What I Believe "What I Am" :)</h2></div>
 <p>I am a Software Engineering student specializing in Artificial Intelligence and Data Science at Dr. D. Y. Patil Institute of Engineering, Management, and Research. My passion lies in exploring new technologies, and I thrive on the excitement of learning and applying them.
